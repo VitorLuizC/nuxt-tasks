@@ -12,6 +12,5 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  text-align: center;
 }
 </style>
