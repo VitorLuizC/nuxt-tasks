@@ -1,5 +1,5 @@
 <template>
-  <button class="AppButton">
+  <button v-bind="$attrs" v-on="$listeners" class="AppButton">
     <slot />
   </button>
 </template>
